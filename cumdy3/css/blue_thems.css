@@ -1,0 +1,118 @@
+/*Blue Theme*/
+/*light blue*/
+
+span.blue{
+	color: white;
+}
+#active-nav{
+	border-top: 3px solid orange;
+	background: #1b5280; 
+}
+ul#icon-link a:hover{
+  background: orange;
+}
+
+.social-list li{
+	background:#1b5280;
+}
+.social-list li:hover{
+	background:orange;
+}
+h3{
+	color:#0C426f;	
+	font-weight: bold;
+	text-align: center;
+}
+nav.borderTopThem,div.borderTopThem{
+	border-radius: 0px;
+	border-top: 1px groove #09355A;
+}
+
+.navbar-inverse .navbar-nav > li {
+	border-right: 1px solid #09355A;
+	/*width: 100px;*/
+}
+
+
+div#header,.navbar-inverse{
+		background-color:  #0C426F;
+		border: #09355A;
+
+}
+ul.my-drop-down li{
+	border-bottom: 1px solid  #09355A;
+}
+
+ /*hovering head section*/
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > 
+.open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background: #1b5280;  
+} 
+
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover,
+.dropdown-menu  > li:focus,
+.dropdown-menu > li:hover {
+	background-color: #0C426F;
+}
+/*search box*/
+input#inputSuccess{
+	background-color: #154c7a;
+	border: 1px solid #154c7a;   
+}
+/*while droping down the nav section*/
+ul.my-drop-down{
+	background:#1b5280; 
+} 
+/*modal*/
+.login_bg{
+	background:#0C426F;
+	color: white;
+}
+.btn-primary{
+	background-color:rgb(27, 74, 119);
+	color:white;
+}
+p.read-more,p.read-more>.fa{
+	color: rgb(27, 74, 119);
+}
+.btn-primary:hover,.btn-primary:active, .btn-primary:focus{
+	background-color:#1b5280;
+
+}
+
+
+/*Note:You don't have to change this class*/
+/*end modal*/
+
+
+/*orage slider info*/
+/*div.carousel-caption{
+	background-color:rgba(255, 165, 0, 0.89);
+}
+*/
+
+
+ div.carousel-caption{
+      background: none repeat scroll 0% 0%;
+      background-color:rgba(255, 165, 0, 0.89);
+     }
+
+/* upper footer*/
+.main{
+	background-color: rgb(27, 74, 119);
+} 
+
+.socialList li{
+	background: #0C426F;
+}
+
+/* lower footer*/
+.footer{
+	background-color: #0C426F;
+}
+a{
+	color:#0C426F;
+	text-decoration: none;
+}

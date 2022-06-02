@@ -1,0 +1,112 @@
+s.address,.contactTitle,.connectTitle{
+  font-weight: bold;
+  display: block;
+  margin-bottom: 18px;
+  padding-bottom: 12px;
+}
+.add,.contact>span,.connect{
+  color: #9d9d9d;
+  opacity: 0.6;
+}
+.contact>span{
+  padding-bottom: 11px;
+}
+.main{
+    /*background-color: rgb(27, 74, 119); changed by ram*/
+    color: #D9DEE4;
+
+}
+.contents{
+  padding-bottom: 0px;
+}
+.email{
+  margin-left: 42px;
+}
+.footer{
+    height: auto;    /*background-color: #0C426F;*/
+  
+}
+/*Ramu */
+
+div>span.currentInfo{
+  font-size:0.9em;
+  color:#9d9d9d;
+  font-family: Arial;
+  opacity:0.54;
+}
+a#linkStyle{
+  text-decoration: none;
+  color:#9d9d9d;
+  cursor:pointer;
+}
+#linkStyle:hover{
+  color:#fff;
+}
+
+.currentLocation .animate{
+  font-size:1.28em;
+}
+.currentTheme{
+  float:right;
+}
+.themeValue{
+  color:#9d9d9d;
+}
+ /*Theme Section*/
+ ul.themeList li{
+  list-style:none;
+  padding-bottom: 8px;
+ }
+/*li #blueBox{
+  border:1px solid blue;
+  width:10px;
+  height:10px;
+  color:blue;
+  border-radius:100px;
+  background: blue;
+  }*/
+.themeList li a:hover{
+  color:white;
+  text-decoration: none;
+  cursor:pointer;
+}
+
+
+
+ /*End Theme Section*/
+
+
+/*Ramu*/
+
+div.footAll{
+  padding-top: 23px;
+  text-align: center;
+  color:#9d9d9d;
+}
+span.footInfo{
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  padding-bottom: 6px;
+}
+span>#self,#self{
+    color: #0C426F;
+}
+.social-list{
+  margin-top: 22px;
+}
+.social-list li{
+  list-style-type: none;
+  display: inline;
+  font-size: 21px;
+  margin-left: 12px;
+  /*background-color: #0C426F;  changed by ram*/
+  padding: 8px 13px 9px;
+  border-radius: 100px;
+
+
+}
+
+.fa{
+  color: white;
+}

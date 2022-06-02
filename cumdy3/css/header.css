@@ -1,0 +1,188 @@
+/*for reset */
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: "Fontin";
+      position: relative; 
+      height: 1000px;
+
+}
+/*defining CSS*/
+.mm3{
+	font-family: "Myanmar3";
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: "Fontin";
+
+}
+
+v
+/*.header-color{
+	color:#09355A; changed by ram
+}
+*/
+
+.header-bgcolor{ 
+	background-color:#09355A;
+}
+.img-shadow{
+	box-shadow: 1px 1px 3px black;
+}
+
+
+/*h3{
+	color: 
+}
+h4{
+	color: 
+}
+.slide-color{
+	background: 
+
+}*/
+
+/*end defining CSS*/
+
+
+
+
+
+
+
+div#myModal, div#myCreate,div#mySetting,div#mySignUp{
+	top: 40px;
+}
+
+.nav-bgcolor{
+	/*background-color:#1B5280;*/
+}
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:focus,
+  .navbar-inverse .navbar-nav >
+
+ .active > a:hover
+{
+	
+	background: #0C426F;
+}
+
+/*div#header,.navbar-inverse{
+		background-color:  #0C426F; //changed by ram
+		border: #09355A;
+
+}
+*/
+
+
+.navbar-inverse .navbar-nav > li > a,
+
+.navbar-header a.navbar-brand {
+	color:#FFF;
+}
+/*.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > 
+.open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background: #1b5280;
+}*/
+
+/*.navbar-inverse .navbar-nav > li {
+	border-right: 1px solid #09355A;
+	width: 100px;
+
+}
+*/
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+div#logo-header{	
+
+
+	
+	margin-top:10px;
+}
+
+#logo-header>div>img{
+	text-shadow: 1px 1px 1px black;
+	
+	margin-right: 5px;
+
+
+}
+img#logo{
+	height: 70px;
+}
+
+div#nav-header{
+	height: 50px;
+	/*border-bottom: 1px solid #09355A;*/
+}
+
+
+
+input#inputSuccess{
+	/*background-color: #154c7a;  changed by ram*/
+	/*border: 1px solid #154c7a;*/
+	color: white;
+	float: left;
+	display: block;
+	/*border: 1px solid #09355A*/;
+	
+}
+
+  .affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+  .navbar {
+
+      margin-bottom: 0px;
+  }
+
+  .affix ~ .container-fluid {
+     position: relative;
+     top: 60px;
+  }
+/*ul.my-drop-down{
+	background:#1b5280;  changed by ram
+	
+
+}
+*/
+ul.my-drop-down li a{
+	color:  #fff;
+
+}
+ul.my-drop-down li {
+	color:  #fff;
+	padding-bottom: 7px;
+	padding-top: 7px;
+
+	/*border-bottom: 1px solid  #09355A; */
+}
+ul.my-drop-down li:last-child{
+	border-bottom: none;
+}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #9D9D9D;
+    text-decoration: none;
+   /* background-color: #1b5280;*/
+}
+
+
+
+/*for login*/
+
+div#body{
+	min-height: 600px;
+
+}
+
+div#body>div.row{
+	margin-bottom: 40px;
+}

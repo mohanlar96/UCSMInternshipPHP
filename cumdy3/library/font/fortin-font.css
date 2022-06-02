@@ -1,0 +1,13 @@
+/* font converted using font-converter.net. thank you! */
+@font-face {
+  font-family: "Fontin";
+  src: url("./fonts/Fontin-Regular.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/Fontin-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./fonts/Fontin-Regular.otf") format("opentype"), /* Open Type Font */
+    url("./fonts/Fontin-Regular.svg") format("svg"), /* Legacy iOS */
+    url("./fonts/Fontin-Regular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./fonts/Fontin-Regular.woff") format("woff"), /* Modern Browsers */
+    url("./fonts/Fontin-Regular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}

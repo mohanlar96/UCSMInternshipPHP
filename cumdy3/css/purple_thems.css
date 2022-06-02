@@ -1,0 +1,119 @@
+/*#3coa3c Theme*/
+/*light blue*/
+span.purple{
+	color: white;
+}
+#active-nav{
+	border-top: 3px solid yellow;
+	background: #6b4457;
+}
+ul#icon-link a:hover{
+  background:yellow;
+}
+
+.social-list li{
+	background:#805169;
+}
+nav.borderTopThem,div.borderTopThem{
+	border-radius: 0px;
+	border-top: 1px groove #2c0216;
+
+}
+.navbar-inverse .navbar-nav > li {
+	border-right: 1px solid #2c0216;
+	/*width: 100px;*/
+}
+
+ul.my-drop-down li{
+	border-bottom: 1px solid  #2c0216;
+}
+
+
+
+h3{
+	color:#805169; 
+	font-weight: bold;
+	text-align: center;
+}
+
+div#header,.navbar-inverse{
+		background-color:  #805169;
+		border: #2c0216;
+
+}
+
+ /*hovering head section*/
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > 
+.open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background: #6b4457;  
+} 
+
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover,
+.dropdown-menu  > li:focus,
+.dropdown-menu > li:hover {
+	background-color: #805169;
+}
+/*search box*/
+
+input#inputSuccess{
+	background-color: #6b4457; 
+	border: 1px solid #2c0216; 
+}
+
+/*while droping down the nav section*/
+ul.my-drop-down{
+	background:#6b4457; 
+} 
+ul.my-drop-down li{
+	border-bottom: 1px groove  #2c0216;
+}
+/*modal*/
+.login_bg{
+	background:#805169;
+	color: white;
+}
+.btn-primary{
+	background-color:#6b4457;
+	color:white;
+	border-color:#6b4457;
+}
+
+.btn-primary:hover,.btn-primary:active,.btn-primary:focus{
+	background-color:#805169;
+	border-color:#2c0216;
+}
+p.read-more,p.read-more>.fa{
+	color: #805169;
+}
+
+/*Note:You don't have to change this class*/
+/*end modal*/
+ div.carousel-caption{
+      background: none repeat scroll 0% 0%;
+      background-color:yellow;
+      opacity: 0.2;
+     }
+
+/* upper footer*/
+.main{
+	background-color:#6b4457;
+} 
+
+.socialList li{
+	background: #6b4457;
+}
+.social-list li:hover {
+	background: yellow;
+}
+
+
+/* lower footer*/
+.footer{
+	background-color: #805169;
+}
+a{
+	color:#6b4457;
+	text-decoration: none;
+}

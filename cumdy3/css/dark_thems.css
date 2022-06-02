@@ -1,0 +1,120 @@
+/*Dark Theme*/
+/*light blue*/
+span.dark{
+	color: white;
+}
+#active-nav{
+	border-top: 3px solid #d42b1e;
+	background: #0d1116; 
+}
+ul#icon-link a:hover{
+  background: #d42b1e;
+}
+
+h3{
+	color:#0b0b0b;	
+	font-weight:bold;
+	text-align:center;
+}
+
+
+.social-list li{
+	background:#0b0b0b;
+}
+.social-list li:hover{
+	background:#d42b1e;
+}
+
+nav.borderTopThem,div.borderTopThem{
+	border-radius: 0px;
+	border-top:1px groove #181f28;
+}
+
+.navbar-inverse .navbar-nav > li {
+	border-right: 1px solid #181f28;
+	/*width: 100px;*/
+}
+
+
+div#header,.navbar-inverse{
+		background-color:  #0b0b0b;
+		border: #181f28;
+
+}
+ul.my-drop-down li{
+	border-bottom: 1px solid  #181f28;
+}
+
+ /*hovering head section*/
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > 
+.open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background: #0d1116;  
+} 
+
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover,
+.dropdown-menu  > li:focus,
+.dropdown-menu > li:hover {
+	background-color: #0b0b0b;
+}
+/*search box*/
+input#inputSuccess{
+	background-color: #0d1116;
+	border: 1px solid #181f28;
+;   
+}
+/*while droping down the nav section*/
+ul.my-drop-down{
+	background:#0d1116; 
+} 
+/*modal*/
+.login_bg{
+	background:#0b0b0b;
+	color: white;
+}
+.btn-primary{
+	background-color:#0d1116;
+	color:white;
+}
+.btn-primary:hover,.btn-primary:active,.btn-primary:focus{
+	background-color:#0d1116;
+	border-color:#181f28;
+
+}
+p.read-more,p.read-more>.fa{
+	color: #0d1116;
+}
+
+
+/*Note:You don't have to change this class*/
+/*end modal*/
+
+
+/*orage slider info*/
+/*div.carousel-caption{
+	background-color:orange;
+}
+*/
+
+
+ div.carousel-caption{
+      background: none repeat scroll 0% 0%;
+      background-color:#d42b1e;
+     }
+
+/* upper footer*/
+.main{
+	background-color: #0d1116;
+} 
+
+
+
+/* lower footer*/
+.footer{
+	background-color: #0b0b0b;
+}
+a{
+	color:#0b0b0b;
+	text-decoration: none;
+}

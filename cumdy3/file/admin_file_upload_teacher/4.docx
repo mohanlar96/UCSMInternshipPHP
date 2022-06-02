@@ -1,0 +1,8 @@
+Current Login Admmision Or User Id is  <span style='color:red;'>06</span>
+
+You Can Access this userId with a Variable call <span style='color:red;font-size:20px;'> &dollar;userId</span><br />
+<b>Warning</b>:  readfile(file_upload_teacher/80.docx): failed to open stream: No such file or directory in <b>C:\xampp1\htdocs\new-latest\new\login\user\lms_download1.php</b> on line <b>16</b><br />
+<br />
+<b>Warning</b>:  require(view/lms_download_teacher.view.php): failed to open stream: No such file or directory in <b>C:\xampp1\htdocs\new-latest\new\login\user\lms_download1.php</b> on line <b>18</b><br />
+<br />
+<b>Fatal error</b>:  require(): Failed opening required 'view/lms_download_teacher.view.php' (include_path='C:\xampp1\php\PEAR') in <b>C:\xampp1\htdocs\new-latest\new\login\user\lms_download1.php</b> on line <b>18</b><br />

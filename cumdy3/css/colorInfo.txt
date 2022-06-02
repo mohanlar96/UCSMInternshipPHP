@@ -1,0 +1,73 @@
+*For theme 1 */
+
+For Blue,
+header background{
+#0C426f; #0b0b0b   #ae0f9c; 
+} 
+nav background{
+#1b5280;  #0d1116	#f000ff;
+
+#09355A; #181f28 	#ea0727
+
+rgba(255, 165, 0, 0.89) #d42b1e  	
+
+}
+slilder{
+rgba(255, 165, 0, 0.89);  //orange	#ff3b3b;
+border ;...  #09355A strong blue
+}
+h3 #09355A
+search light one #1b5280
+logo fb,twitter  #0c426f
+login control btn primary 
+.main  rgb(27, 74, 119);
+.foot down one  :#0C426F
+
+#active-nav{
+	/* in eve
+	/*border-top: 3px solid orangd  changed by ram*/
+	/*background: #1b5280; changed by ram home bg light blue lay*/
+
+}
+
+
+
+For Purple,
+
+header background{
+#87556e;
+}
+nav background{
+#945f79;
+
+}
+slilder{
+
+
+}
+
+For Teal,
+header background{
+#48a3a7;
+}
+nav background{
+#47adb1;
+
+}
+slilder{
+
+
+}
+
+For Dark,
+header background{
+#10151c;
+}
+nav background{
+#1b212a;
+
+}
+slilder{
+
+
+}

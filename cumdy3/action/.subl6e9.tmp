@@ -1,0 +1,54 @@
+<?php
+
+require '../library/database/config.php';
+require '../library/database/database.php';
+
+$db=new Database($config);
+
+$id=$_POST['id'];
+if($db->delete("Name_Myan","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("Name_Eng","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("Date_Of_Birth","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("NRC","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("MarticulationRoll_No","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("MarticulationYear","Student_ID='$id' ")){
+echo "true";	
+}
+if($db->delete("FatherName_Myan","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("FatherName_Eng","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("FatherDate_Of_Birth","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("FatherNRC","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("MotherName_Myan","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("MotherName_Eng","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete("MotherDate_Of_Birth","Student_ID='$id' ")){
+echo "true";
+}
+if($db->delete(" MotherNRC","Student_ID='$id' ")){
+echo "true";
+}
+
+
+?>
+

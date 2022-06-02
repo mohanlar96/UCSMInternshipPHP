@@ -1,0 +1,114 @@
+/*Blue Theme*/
+/*light blue*/
+span.magenta{
+	color: white;
+}
+#active-nav{
+	border-top: 3px solid #d42b1e ;
+	background: #900580; 
+}
+ul#icon-link a:hover{
+  background: #D42B1E ;
+}
+.social-list li{
+	background:#ae0f9c;
+}
+
+h3{
+	color:#ae0f9c;	
+	font-weight: bold;
+	text-align: center;
+}
+nav.borderTopThem,div.borderTopThem{
+	border-radius: 0px;
+	border-top: 1px groove #740F48;
+}
+
+.navbar-inverse .navbar-nav > li {
+	border-right: 1px solid #740F48;
+	/*width: 100px;*/
+}
+
+
+div#header,.navbar-inverse{
+		background-color:  #ae0f9c;
+		border: #740F48;
+
+}
+ul.my-drop-down li{
+	border-bottom: 1px solid  #740F48;
+}
+
+ /*hovering head section*/
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > 
+.open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{
+	background: #900580 ;  
+} 
+
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover,
+.dropdown-menu  > li:focus,
+.dropdown-menu > li:hover {
+	background-color: #ae0f9c;
+}
+/*search box*/
+input#inputSuccess{
+	background-color: #900580;
+	border: 1px solid #740F48;   
+}
+/*while droping down the nav section*/
+ul.my-drop-down{
+	background:#900580; 
+} 
+/*modal*/
+.login_bg{
+	background:#ae0f9c;
+	color: white;
+}
+.btn-primary{
+	background-color:#900580;
+	color:white;
+}
+.btn-primary:hover,.btn-primary:active,.btn-primary:focus{
+	background-color:#900580;
+
+}
+p.read-more,p.read-more>.fa{
+	color: #900580;
+}
+.social-list li:hover{
+	background:#d42b1e;
+}
+
+/*Note:You don't have to change this class*/
+/*end modal*/
+
+
+/*orage slider info*/
+/*div.carousel-caption{
+	background-color:rgba(255, 165, 0, 0.89);
+}
+*/
+
+
+ div.carousel-caption{
+      background: none repeat scroll 0% 0%;
+      background-color:#d42b1e ;
+     }
+
+/* upper footer*/
+.main{
+	background-color: #900580;
+} 
+
+
+
+/* lower footer*/
+.footer{
+	background-color: #ae0f9c;
+}
+a{
+	color:#ae0f9c;
+	text-decoration: none;
+}
